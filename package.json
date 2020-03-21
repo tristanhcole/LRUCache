@@ -1,0 +1,33 @@
+{
+  "name": "lrucache",
+  "version": "1.0.0",
+  "description": "A Simple Javascript Least Recently Used (LRU) Cache",
+  "main": "lru.js",
+  "scripts": {
+    "dev": "babel src/ --watch -d lib/",
+    "build": "babel src/ -d lib/",
+    "prepublish": "npm run build",
+    "test": "jest",
+    "flow": "flow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanhcole/LRUCache.git"
+  },
+  "author": "Tristan Cole (https://github.com/tristanhcole)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tristanhcole/LRUCache/issues"
+  },
+  "homepage": "https://github.com/tristanhcole/LRUCache#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-flow": "^7.9.0",
+    "@types/jest": "^25.1.4",
+    "babel-jest": "^25.1.0",
+    "flow-bin": "^0.121.0",
+    "jest": "^25.1.0"
+  }
+}
