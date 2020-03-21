@@ -8,6 +8,6 @@ LRU Cache combines two data structures for **super-fast** cache item *access* an
 
 ![Diagram of LRU Cache](https://www.interviewcake.com/images/svgs/lru_cache__doubly_linked_list.svg?bust=204)
 
-Inspiration & Source: https://www.interviewcake.com/concept/java/lru-cache
+Inspiration & Image Source: https://www.interviewcake.com/concept/java/lru-cache
 
 Built with Javascript, Flow, Babel and Jest.
