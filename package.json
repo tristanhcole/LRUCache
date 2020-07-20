@@ -27,7 +27,7 @@
     "@babel/preset-flow": "^7.9.0",
     "@types/jest": "^25.1.4",
     "babel-jest": "^25.1.0",
-    "flow-bin": "^0.121.0",
+    "flow-bin": "^0.129.0",
     "jest": "^25.1.0"
   }
 }
