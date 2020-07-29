@@ -22,7 +22,7 @@
   "homepage": "https://github.com/tristanhcole/LRUCache#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
-    "@babel/core": "^7.9.0",
+    "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-flow": "^7.9.0",
     "@types/jest": "^25.1.4",
