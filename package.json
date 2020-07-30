@@ -25,7 +25,7 @@
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
     "@babel/preset-flow": "^7.10.4",
-    "@types/jest": "^25.1.4",
+    "@types/jest": "^26.0.7",
     "babel-jest": "^26.1.0",
     "flow-bin": "^0.130.0",
     "jest": "^25.1.0"
